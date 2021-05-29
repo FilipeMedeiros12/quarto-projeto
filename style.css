@@ -14,6 +14,8 @@ body{
  border: solid 1px  grey;
  border-radius: 25px ;
  font-size: 12px;
+ outline: 0;
+ 
  } 
  button{
  width: 157px ;
@@ -24,6 +26,7 @@ body{
  color: white;
  border: solid 1px grey;
  border-radius: 25px;
+
  }
  H1{
      font-size: 25PX;
